@@ -1,0 +1,9 @@
+name: MineAllBlocks
+version: '${project.version}'
+main: fr.reycun.mineallblocks.MineAllBlocks
+api-version: 1.19
+authors: [ Reycun ]
+description: Mine all blocks of the game !
+commands:
+  yoyo:
+    description: test
